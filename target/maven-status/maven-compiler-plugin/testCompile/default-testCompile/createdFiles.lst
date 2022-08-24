@@ -1,0 +1,3 @@
+com\deals\validator\RequestValidatorTest.class
+com\deals\service\DealsServiceImplTest.class
+com\deals\controller\SubmitDataControllerTest.class
